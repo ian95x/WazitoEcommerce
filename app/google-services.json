@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "857146361688",
+    "firebase_url": "https://gingerecommerce-cf260-default-rtdb.firebaseio.com",
+    "project_id": "gingerecommerce-cf260",
+    "storage_bucket": "gingerecommerce-cf260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857146361688:android:a971b12be4eb067479072d",
+        "android_client_info": {
+          "package_name": "com.example.wazitoecommmerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTI_I1q2FstsVllMe5RP4GmSlUIIiEOBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
